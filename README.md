@@ -20,10 +20,9 @@ This is a simple full-stack **e-commerce cart application** where users can brow
 
 | Layer      | Technology Used           |
 |------------|---------------------------|
-| Frontend   | React.js                  |
+| Frontend   | React.js, TailwindCSS     |
 | Backend    | Node.js, Express.js       |
 | Database   | MongoDB                   |
-| Other Tools | Axios, Nodemon           |
 
 ---
 
